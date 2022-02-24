@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-jeenudgv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeeva-vadlamudi-8b439268/)](https://www.linkedin.com/in/jeeva-vadlamudi-8b439268/)
+[![Linkedin Badge](https://img.shields.io/badge/-jeeva-vadlamudi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeeva-vadlamudi-8b439268/)](https://www.linkedin.com/in/jeeva-vadlamudi-8b439268/)
 
 I'm
 Full Stack Developer
